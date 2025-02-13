@@ -7,7 +7,7 @@ Educational background:
 
 Technical skills:
 
-1.basic knowledge in docker 
+1.basic knowledge in docker
 2.basic knowledge in HTML and CSS
 3.basic knowledge in MySQL
 4.Basic knowledge in linux
