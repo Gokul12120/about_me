@@ -7,11 +7,11 @@ Educational background:
 
 Technical skills:
 
--basic knowledge in docker
--basic knowledge in HTML and CSS
--basic knowledge in MySQL
--Basic knowledge in linux
--Basic knowledge in C++ and Python
+1.basic knowledge in docker 
+2.basic knowledge in HTML and CSS
+3.basic knowledge in MySQL
+4.Basic knowledge in linux
+5.Basic knowledge in C++ and Python
 
 What you aim to achieve from this training:
 
